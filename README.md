@@ -1,3 +1,5 @@
+[!alt tag](http://i.imgur.com/BwKVwkg.png)
+
 # Ruby on Rails Tutorial: sample application
 
 This is the sample application for the
