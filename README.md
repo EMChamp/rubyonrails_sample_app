@@ -1,4 +1,4 @@
-[!alt tag](http://i.imgur.com/BwKVwkg.png)
+![alt tag](http://i.imgur.com/BwKVwkg.png)
 
 # Ruby on Rails Tutorial: sample application
 
